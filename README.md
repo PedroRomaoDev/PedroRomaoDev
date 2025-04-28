@@ -36,7 +36,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
