@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://instagram.com/pedrolucclx"><img src="https://img.shields.io/badge/-@pedrolucclx_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pedro-rom%C3%A3o-2615572b3/"><img src="https://img.shields.io/badge/-Pedro%20Romão%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:pedro7ntj@gmail.com"><img src="https://img.shields.io/badge/-pedro7ntj@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
