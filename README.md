@@ -35,6 +35,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Postman](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=postman)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
