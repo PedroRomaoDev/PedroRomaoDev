@@ -12,7 +12,7 @@
 - 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, ministro aulas de Desenvolvimento Web para jovens universitários e alunos do Ensino Médio. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (Node & React) para desenvolver em ambas as frentes.
 - 🏎 &nbsp; Sou apaixonado por música, animes e academia, essa é a minha válvula de escape para qualquer coisa. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de cultura pop.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
