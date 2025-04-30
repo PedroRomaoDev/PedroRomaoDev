@@ -40,4 +40,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Pedro Romão's GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula)
+![Pedro Romão's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroRomaoDev&show_icons=true&theme=dracula)
