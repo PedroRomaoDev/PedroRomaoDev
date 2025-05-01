@@ -40,7 +40,7 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-| ![Pedro Romão's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroRomaoDev&show_icons=true&theme=radical&cache_seconds=1800) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRomaoDev&layout=compact&theme=radical&cache_seconds=1800) |
+| ![Pedro Romão's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroRomaoDev&show_icons=true&theme=dracula&cache_seconds=1800) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRomaoDev&layout=compact&theme=dracula&cache_seconds=1800) |
 | --- | --- |
 
 
